@@ -1,0 +1,8 @@
+streamlit~=1.40.1
+requests~=2.32.3
+openai~=0.28.0
+numpy~=1.26.4
+fastapi~=0.115.4
+pydantic~=2.9.2
+python-dotenv~=1.0.1
+sentence-transformers~=3.2.1
